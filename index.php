@@ -2,7 +2,7 @@
 
  echo "Hello World e Adeilton de Araujo!";
 
-  echo "local deu certo"
+  echo "removi pagina.php e criei uma linha"
 
 
 >
